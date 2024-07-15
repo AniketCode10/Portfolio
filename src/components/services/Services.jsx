@@ -68,7 +68,7 @@ const Services = () => {
           I optimize your e-commerce site for speed, ensuring quick load times to improve user experience and boost search engine rankings. Ensuring that your e-commerce platform looks and works great on all devices, from desktops to smartphones.
          
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
         <motion.div className="box" whileHover={{ background:"lightgray",color:"black"}}>
           <h2>Scalable Web Applications</h2>
@@ -77,7 +77,7 @@ const Services = () => {
           
          
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
         <motion.div className="box" whileHover={{ background:"lightgray",color:"black"}}>
           <h2>SSR for SEO Optimization</h2>
@@ -85,14 +85,14 @@ const Services = () => {
           Improve your website's SEO and performance with Server-Side Rendering. By utilizing SSR with React and Node.js, I can ensure faster initial load times and better search engine visibility.
        
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
         <motion.div className="box" whileHover={{background:"lightgray",color:"black" }} >
           <h2>Custom API Development</h2>
           <p>
           Create robust and secure APIs tailored to your business needs. With my expertise in Express and Node.js, I can develop custom APIs that facilitate seamless communication between your web applications and other services.
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
       </motion.div>
       
